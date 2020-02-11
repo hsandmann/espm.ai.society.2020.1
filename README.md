@@ -56,7 +56,6 @@
 ## News
 
 - 2020.01.28: Google AI Blog - [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
----
 - 2019.10.23: Science - [AI allows paralyzed person to ‘handwrite’ with his mind](https://www.sciencemag.org/news/2019/10/ai-allows-paralyzed-person-handwrite-his-mind)
 - 2019.10.23: Nature - [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
 - 2019.10.09: Fortune - [Artificial Intelligence Could Be a $14 Trillion Boon to the Global Economy—If It Can Overcome These Obstacles](https://fortune.com/2019/10/09/artificial-intelligence-14-trillion-boon-only-if-overcome-one-thing/)
