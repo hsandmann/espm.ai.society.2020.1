@@ -55,6 +55,8 @@
 
 ## News
 
+- 2020.02.13: Senado Federal - [Projeto de Lei n° 5051, de 2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/138790)
+- 2020.02.13: Participa.br - [Estratégia Brasileira de Inteligência Artificial](http://www.participa.br/estrategia-brasileira-de-inteligencia-artificial/estrategia-brasileira-de-inteligencia-artificial-legislacao-regulacao-e-uso-etico)
 - 2020.01.28: Google AI Blog - [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 - 2019.10.23: Science - [AI allows paralyzed person to ‘handwrite’ with his mind](https://www.sciencemag.org/news/2019/10/ai-allows-paralyzed-person-handwrite-his-mind)
 - 2019.10.23: Nature - [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
