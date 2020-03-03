@@ -8,7 +8,7 @@
 |-------:|----------|----------|
 | fev.11 | Apresentação e aplicações | vídeo: [This is A.I. - Discovery Channel - Inteligência Artificial - IBM](https://www.youtube.com/watch?v=H3P87qCdqk4) <br> vídeo: [The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc) |
 |     18 | História, Conceitos e Automação em IA <br> Impactos na sociedade | simulador: [Moral Machine](http://moralmachine.mit.edu) <br> vídeo: [John McCarthy](https://www.youtube.com/watch?v=Ozipf13jRr4) <br> vídeo: [Andrew Ng: Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc) <br> artigo: [Harvard Business Review - Artificial Intelligence for the Real World](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world) |
-| mar.03 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> site: [Colab](https://colab.research.google.com) <br> colab: [Python introdução](https://colab.research.google.com/drive/1MlnemrzD8FkFeCyp6Pa-Mj7xzjqI2Ok_) |
+| mar.03 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> resumo: [Resumo](https://colab.research.google.com/drive/1_Afno65aTsN1HdX3p3MKRRq7nrBaS1IZ) <br> site: [Colab](https://colab.research.google.com) <br> colab: [Python introdução](https://colab.research.google.com/drive/1MlnemrzD8FkFeCyp6Pa-Mj7xzjqI2Ok_) |
 |     10 | **Apresentação de trabalhos: O que é IA?** | [Instruções](./trab.1.md) |
 |     17 | Classificação e Predição <br> Conceito de distância <br> Nuvem de dados | |
 |     24 | k-nearest neighbors (KNN) | |
@@ -35,6 +35,7 @@
 ## Referências
 
 - S. Russell; P. Norvig: **Artificial Intelligence: A Modern Approach** (3rd Edition), 2009.
+- [AI destroying the Google's Dinosaur game!](https://www.youtube.com/watch?v=NZlIYr1slAk)
 - Python
   - [Tutorial](https://www.tutorialspoint.com/python/)
   - [Exact Instructions Challenge](https://youtu.be/cDA3_5982h8)
