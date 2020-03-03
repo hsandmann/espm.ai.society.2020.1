@@ -18,7 +18,7 @@
 |     28 | Tomada de decisões <br> Bayesian decision tree | |
 | mai.05 | Natural language processing (NLP) | Meena: [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) |
 |     12 | **Apresentação de trabalhos** | |
-|     19 | Multi layer Perceptron (MLP) | |
+|     19 | Multi layer Perceptron (MLP) |  |
 |     26 | Deep learning <br> Generative adversarial networks (GANs)  | |
 | jun.02 | **Prova Final** | Apresentação: <br> - Impacto social onde o ponto essencial seja Machine Learning <br> - Estimar técnicas de Machine Learning aplicáveis ao problema <br> - Implementação (bônus) |
 |     16 | Substitutivas | |
