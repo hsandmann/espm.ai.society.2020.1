@@ -13,7 +13,7 @@
 |     24 | Classificação e Predição <br> Conceito de distância | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos Básicos |
 |     31 | Nuvem de Dados <br> k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) Nuvem de Dados e KNN |
 | abr.07 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ly2J0AJUO5gurmhbowiwhge8TLnILTnU) Pré-processamento, PCA e Reconhecimento facial |
-|     14 | **Prova Parcial** | |
+|     14 | **Prova Parcial** | [Instruções](./trab.2.md) |
 |     28 | Tomada de decisões <br> Bayesian decision tree | |
 | mai.05 | Natural language processing (NLP) | Meena: [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) |
 |     12 | **Apresentação de trabalhos** | |
