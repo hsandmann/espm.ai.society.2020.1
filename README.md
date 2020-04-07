@@ -12,7 +12,7 @@
 |     10 | **Apresentação de trabalhos: O que é IA?** | [Instruções](./trab.1.md) |
 |     24 | Classificação e Predição <br> Conceito de distância | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos Básicos |
 |     31 | Nuvem de Dados <br> k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) Nuvem de Dados e KNN |
-| abr.07 | Principal component analysis (PCA) | |
+| abr.07 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ly2J0AJUO5gurmhbowiwhge8TLnILTnU) Pré-processamento, PCA e Reconhecimento facial |
 |     14 | **Prova Parcial** | |
 |     28 | Tomada de decisões <br> Bayesian decision tree | |
 | mai.05 | Natural language processing (NLP) | Meena: [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) |
@@ -55,6 +55,7 @@
 
 ## News
 
+- 2020.03.20: Financial Times - [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 - 2020.02.25: MIT Technology Review - [How to know if artificial intelligence is about to destroy civilization](https://www.technologyreview.com/s/615264/artificial-intelligence-destroy-civilization-canaries-robot-overlords-take-over-world-ai/)
 - 2020.02.19: MIT Technology Review - [An Indian politician is using deepfake technology to win new voters](https://www.technologyreview.com/f/615247/an-indian-politician-is-using-deepfakes-to-try-and-win-voters/)
 - 2020.02.19: MIT Technology Review - [What AI still can’t do](https://www.technologyreview.com/s/615189/what-ai-still-cant-do/)
