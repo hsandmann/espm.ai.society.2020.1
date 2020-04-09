@@ -55,6 +55,8 @@
 
 ## News
 
+- 2020.04.09: G1 - [SP usa sistema de monitoramento com sinais de celulares para localizar aglomeração de pessoas no estado](https://g1.globo.com/sp/sao-paulo/noticia/2020/04/09/sp-usa-sistema-de-monitoramento-com-sinais-de-celulares-para-localizar-aglomeracao-de-pessoas-no-estado.ghtml)
+- 2020.04.07: Agência Brasil - [https://agenciabrasil.ebc.com.br/geral/noticia/2020-04/rio-usa-sinal-de-celular-para-evitar-aglomeracoes](https://agenciabrasil.ebc.com.br/geral/noticia/2020-04/rio-usa-sinal-de-celular-para-evitar-aglomeracoes)
 - 2020.03.20: Financial Times - [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 - 2020.02.25: MIT Technology Review - [How to know if artificial intelligence is about to destroy civilization](https://www.technologyreview.com/s/615264/artificial-intelligence-destroy-civilization-canaries-robot-overlords-take-over-world-ai/)
 - 2020.02.19: MIT Technology Review - [An Indian politician is using deepfake technology to win new voters](https://www.technologyreview.com/f/615247/an-indian-politician-is-using-deepfakes-to-try-and-win-voters/)
