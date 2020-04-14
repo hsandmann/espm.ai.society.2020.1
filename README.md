@@ -55,6 +55,7 @@
 
 ## News
 
+- 2020.04.14: CNN Brasil - [Moscou passa a rastrear população e levanta preocupações com privacidade](https://www.cnnbrasil.com.br/tecnologia/2020/04/14/moscou-passa-a-rastrear-populacao-e-levanta-preocupacoes-com-privacidade)
 - 2020.04.09: G1 - [SP usa sistema de monitoramento com sinais de celulares para localizar aglomeração de pessoas no estado](https://g1.globo.com/sp/sao-paulo/noticia/2020/04/09/sp-usa-sistema-de-monitoramento-com-sinais-de-celulares-para-localizar-aglomeracao-de-pessoas-no-estado.ghtml)
 - 2020.04.08: University of Michigan - [Live public street cams are tracking social distancing](https://ece.engin.umich.edu/stories/live-public-street-cams-are-tracking-social-distancing)
 - 2020.04.07: Agência Brasil - [https://agenciabrasil.ebc.com.br/geral/noticia/2020-04/rio-usa-sinal-de-celular-para-evitar-aglomeracoes](https://agenciabrasil.ebc.com.br/geral/noticia/2020-04/rio-usa-sinal-de-celular-para-evitar-aglomeracoes)
