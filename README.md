@@ -15,7 +15,7 @@
 | abr.07 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ly2J0AJUO5gurmhbowiwhge8TLnILTnU) Pré-processamento, PCA e Reconhecimento facial |
 |     14 | **Prova Parcial** | [Instruções](./trab.2.md) |
 |     28 | Tomada de decisões <br> Naïve Bayes <br> Bayesian decision tree | Bayes Theorem: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpx2AsBE_Kxj3rBjKTjci0_GBfjNL1Rj) <br> Text classification: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KoPTTXp61vCxl21nS4g4xKbMcwDeBXXt) <br> video: [Naïve Bayes Classifier - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=CPqOCI0ahss) <br> Article: [Introduction to Decision Intelligence](https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767) - suggested by Laura Emboaba Deliza |
-| mai.05 | Natural language processing (NLP) | Meena: [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) |
+| mai.05 | Natural language processing (NLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1scxjIBihj6ggzESqZWx6UpPxpgJHmx93) Hopfield Network <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oi5J-W5cd6M0NwNBPleqmkbKzn2k2a38) RNN: Text Generator <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CsBwCLlnratwWvtQQneflI7ju-yJ8JaI) Attention: Translation <br> Article: [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/) <br> Meena: [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) |
 |     12 | **Apresentação de trabalhos** | |
 |     19 | Multi layer Perceptron (MLP) |  |
 |     26 | Deep learning <br> Generative adversarial networks (GANs)  | |
@@ -55,6 +55,7 @@
 
 ## News
 
+- 2020.04.21: ArXiv.org - [TTNet: Real-time temporal and spatial video analysis of table tennis](https://arxiv.org/abs/2004.09927) - [video](https://www.youtube.com/watch?v=5P3k5ZCDcq8)
 - 2020.04.27: CNN - [China is installing surveillance cameras outside people's front doors ... and sometimes inside their homes](https://edition.cnn.com/2020/04/27/asia/cctv-cameras-china-hnk-intl/index.html)
 - 2020.04.17: MIT Technology Review - [Machine learning could check if you’re social distancing properly at work](https://www.technologyreview.com/2020/04/17/1000092/ai-machine-learning-watches-social-distancing-at-work/)
 - 2020.04.08: Adam Savage’s Tested - [How Boston Dynamics' Spot Robot Works!](https://www.youtube.com/watch?v=R-PdPtqw78k)
